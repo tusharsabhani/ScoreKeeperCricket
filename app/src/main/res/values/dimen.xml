@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fifteen">15dp</dimen>
+    <dimen name="one_twenty">120dp</dimen>
+    <dimen name="ten">10dp</dimen>
+    <dimen name="line_thickness">1dp</dimen>
+    <dimen name="score_size">30sp</dimen>
+    <dimen name="playerNameSize">20sp</dimen>
+    <dimen name="welcomeText">15sp</dimen>
+    <dimen name="one_seven_three">173dp</dimen>
+    <dimen name="displayScore">20sp</dimen>
+    <dimen name="thirty">30sp</dimen>
+    <dimen name="distBetweenText">2dp</dimen>
+    <dimen name="distBetweenTextTwo">8dp</dimen>
+    <dimen name="displayResult">40sp</dimen>
+
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Score Keeper(Cricket)</string>
+    <string name="text_hint">Enter name for Player 1</string>
+    <string name="text_hint_2">Enter name for Player 2</string>
+    <string name="homepage_description">Just an intro image</string>
+    <string name="button_text">Start</string>
+    <string name="teamA">Logo for team A</string>
+    <string name="teamB">Logo for team B</string>
+    <string name="six_runs">+6 Runs</string>
+    <string name="four_runs">+4 Runs</string>
+    <string name="three_runs">+3 Runs</string>
+    <string name="two_runs">+2 Runs</string>
+    <string name="one_run">+1 Run</string>
+    <string name="dot_ball">Dot Ball</string>
+    <string name="out">OUT</string>
+    <string name="wide_ball">Wide Ball</string>
+    <string name="no_ball">No Ball</string>
+    <string name="zero">0</string>
+    <string name="slash">/</string>
+    <string name="dot">.</string>
+    <string name="dash"> - </string>
+    <string name="reset">RESET</string>
+    <string name="innings">Innings</string>
+    <string name="playerOneName">Player1 Name</string>
+    <string name="playerTwoName">Player2 Name</string>
+    <string name="endGame">End Match</string>
+    <string name="introText">An app to keep a track of 10 over cricket game</string>
+    <string name="need">Need</string>
+    <string name="sixty">60</string>
+    <string name="lastLineOne">more in</string>
+    <string name="balls">balls</string>
+    <string name="congrats">CONGRATULATIONS!!!</string>
+    <string name="player">Player</string>
+    <string name="won">Won!</string>
+    <string name="trophy">Winner Trophy</string>
+</resources>
